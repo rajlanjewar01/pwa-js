@@ -38,5 +38,5 @@
   "background_color": "linear-gradient(to left bottom,#14e74b, #7edf3f, #abd743, #c9ce52, #dcc767, #e3c16c, #e8bc72, #ebb779, #efaf71, #f3a769, #f79e63, #fb955f)",
   "display": "standalone",
   "scope": "/",
-  "theme_color": "#3367D6"
+  "theme_color": "linear-gradient(to left bottom,#14e74b, #7edf3f, #abd743, #c9ce52, #dcc767, #e3c16c, #e8bc72, #ebb779, #efaf71, #f3a769, #f79e63, #fb955f)"
 }
