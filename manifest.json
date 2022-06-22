@@ -1,18 +1,13 @@
 {
-  "short_name": "Weather",
   "name": "Weather - Do I need an umbrella?",
+  "short_name": "Weather",
   "description": "Weather forecast information",
+  "start_url": "/",
+  "display": "standalone", 
+  "orientation": "portrait",
+  "background_color": "#fb955f",
+  "theme_color": "#dcc767",
   "icons": [
-    {
-      "src": "https://via.placeholder.com/48",
-      "sizes": "48x48",
-      "type": "image/png"
-    },
-    {
-      "src": "https://via.placeholder.com/72",
-      "sizes": "72x72",
-      "type": "image/png"
-    },
     {
       "src": "https://via.placeholder.com/96",
       "sizes": "96x96",
@@ -34,9 +29,8 @@
       "type": "image/png"
     }
   ],
-  "start_url": "/",
-  "background_color": "linear-gradient(to left bottom,#14e74b, #7edf3f, #abd743, #c9ce52, #dcc767, #e3c16c, #e8bc72, #ebb779, #efaf71, #f3a769, #f79e63, #fb955f)",
-  "display": "standalone",
-  "scope": "/",
-  "theme_color": "linear-gradient(to left bottom,#14e74b, #7edf3f, #abd743, #c9ce52, #dcc767, #e3c16c, #e8bc72, #ebb779, #efaf71, #f3a769, #f79e63, #fb955f)"
+  
+  
+  //"scope": "/",
+  
 }
